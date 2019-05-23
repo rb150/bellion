@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    $("#div1").fadeIn(3000);
-    $("#div2").fadeIn(9000);
-    $("#div3").fadeIn(14000);
+    $("#div1").delay(1000).fadeIn(3000);
+    $("#div2").delay(4000).fadeIn(3000);
+    $("#div3").delay(6000).fadeIn(3000);
 
 });
