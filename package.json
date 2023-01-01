@@ -20,6 +20,6 @@
     "popper.js": "^1.15.0",
     "save-dev": "^2.0.0",
     "serve-favicon": "~2.4.5",
-    "webpack": "^4.32.0"
+    "webpack": "^5.75.0"
   }
 }
